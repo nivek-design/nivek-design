@@ -1,8 +1,12 @@
 ## Oiii eu sou Kevin Araujo, atualmente sou Front-End junior!
 <div align="center">
-  <a href="https://portfolio.nivekdesign.com.br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nivek-design&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivek-design&layout=compact&langs_count=7&theme=aura"/>
+</div>
+  
+<div align="center">
+  <a href="https://portfolio.nivekdesign.com.br">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=portfolio-nivekdesign&show_owner&show_icons=true&theme=aura&"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
