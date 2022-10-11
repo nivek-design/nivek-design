@@ -6,9 +6,9 @@
   
 <div align="center">
   <a href="https://portfolio.nivekdesign.com.br">
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=portfolio-nivekdesign&show_owner&show_icons=true&theme=aura"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=proposta_digital_bootstrap&show_owner&show_icons=true&theme=aura"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=VideosApp&show_owner&show_icons=true&theme=aura"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=portfolio-nivekdesign&show_owner&show_icons=true&theme=aura"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=proposta_digital_bootstrap&show_owner&show_icons=true&theme=aura"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=VideosApp&show_owner&show_icons=true&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
