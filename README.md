@@ -6,7 +6,7 @@
   
 <div align="center">
   <a href="https://portfolio.nivekdesign.com.br">
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=portfolio-nivekdesign&show_owner&show_icons=true&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=portfolio-nivekdesign&show_owner&show_icons=true&theme=aura"/>
   <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=proposta_digital_bootstrap&show_owner&show_icons=true&theme=aura"/>
   <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=nivek-design&repo=VideosApp&show_owner&show_icons=true&theme=aura"/>
 </div>
